@@ -17,9 +17,15 @@ Must be running Android 14 and up
 
 ## functions
 ### Overlay
-Press the Off and On to toggle the Lag switch
-X button to close the overlay
-Drag button to move the overlay around
+Press the Off and On to toggle the Lag switch.
+
+
+X button to close the overlay.
+
+
+Drag button to move the overlay around.
+
+
 ### app
 Press the on and off button to toggle the lag switch
 ## Downloads
