@@ -31,4 +31,3 @@ Press the on and off button to toggle the lag switch
 ## Downloads
 
 Download from Releases 
-or from https://buzzheavier.com/wzjk03ea96rt
